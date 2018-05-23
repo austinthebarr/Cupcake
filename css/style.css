@@ -1,0 +1,22 @@
+body {
+  background-color: #b3fff0;
+}
+
+p {
+  width: 1000px;
+  text-align: center;
+  margin: 50px auto 50px auto;
+}
+
+.flashy {
+  color: red;
+  font-style: italic;
+  text-align: center;
+  font-family: monospace;
+}
+
+.best {
+  color: #ff80bf;
+  font-style: italic;
+  font-weight: 600;
+}
